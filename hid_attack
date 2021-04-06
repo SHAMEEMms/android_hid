@@ -78,3 +78,5 @@ echo tab | ./hid-gadget-test /dev/hidg0 keyboard
 echo right | ./hid-gadget-test /dev/hidg0 keyboard
 sleep 0.5
 echo enter | ./hid-gadget-test /dev/hidg0 keyboard
+
+
